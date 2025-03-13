@@ -1,0 +1,11 @@
+
+    🏠 Rent Calculator Receipt: (2025-03-13)
+    -----------------------------------
+    🏠 Total Rent: $200.0
+    🍕 Total Food: $200.0
+    ⚡ Total Electricity: $40000.0
+    📡 Total Internet: $200.0
+    💧 Total Water: $200.0
+    💵 Final Amount per person: $7752.00
+    -----------------------------------
+    
